@@ -1,0 +1,13 @@
+---
+router_a:
+  name: router_a
+  ip: 1.2.3.4
+  username: admin
+  password: pass123
+
+router_b:
+  name: router_b
+  ip: 5.6.7.8
+  username: admin
+  password: pass123
+
