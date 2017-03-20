@@ -14,7 +14,7 @@ This script is intended to be used for comparing the policies on PE routers. In 
 
 Explicit policy definition may help routers to avoid using sub-optimal or asymmetric path when forwarding data among MPLS PE routers. 
 
-![Router_a is primary](https://github.com/czpene1/bs4/blob/master/PolicyCheck/PE_traffic.png)
+![Router_a is primary](/PolicyCheck/PE_traffic.png)
 
 To achieve that we can configure so called VRF import/export polices under routing-instance statement to influence which path data will follow by modyfying BGP attributes such as local-preference, MED atc.
 
